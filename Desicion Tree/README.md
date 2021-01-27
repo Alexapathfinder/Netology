@@ -4,4 +4,4 @@ This directory contains the sixth assignment for the course. DecisionTreeRegress
 - matplotlib
 - numpy
 - seaborn
-- sklearn
+- sklearn 
