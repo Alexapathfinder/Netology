@@ -1,4 +1,5 @@
-This directory contains the seventh assignment for the course. Ensembles. Libraries used:
+This directory contains the eighth assignment for the course. 
+Search for outliers and generation of new features. Libraries used:
 
 - pandas
 - matplotlib
