@@ -25,7 +25,7 @@ Libraries used:
 - datetime
 
 
-2. Homework theme: "Hybrid recommender systems". 
+3. Homework theme: "Hybrid recommender systems". 
 Libraries used:
 
 - pandas
