@@ -23,3 +23,16 @@ Libraries used:
 - six
 - tabulate
 - datetime
+
+
+2. Homework theme: "Hybrid recommender systems". 
+Libraries used:
+
+- pandas
+- matplotlib
+- numpy
+- seaborn
+- sklearn
+- keras
+- tabulate
+- datetime
