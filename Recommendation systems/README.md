@@ -1,4 +1,4 @@
-This directory contains the first and the second assignments for the course "Recommender systems". 
+This directory contains the first, the second and the third assignments for the course "Recommender systems". 
 
 1. Homework theme: "Content Recommendations". 
 Libraries used:
