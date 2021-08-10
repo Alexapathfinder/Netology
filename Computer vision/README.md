@@ -1,4 +1,4 @@
-This directory contains the first assignment for the course Computer vision. Libraries used:
+This directory contains assignments for the course Computer vision. Libraries used:
 
 - pandas
 - matplotlib
